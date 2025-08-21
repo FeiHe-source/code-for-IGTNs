@@ -1,0 +1,2 @@
+# Interaction-guided-Speech-Tensor-Representation-for-Dysphagia-Screening
+This code develops a multi-vowel representation system that fuses vowels at the data level in the frequency domain. The spectra of vowels from the same speaker are calculated and segmented to construct high-order speech tensors. Furthermore, we present interaction-guided tensor networks to extract features from these speech tensors. 
