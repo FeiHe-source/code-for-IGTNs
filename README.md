@@ -1,6 +1,6 @@
 # Interaction-guided-Speech-Tensor-Representation-for-Dysphagia-Screening
 ## Description
-- Code for the paper: \"Interaction-guided Speech Tensor Representation for Dysphagia Screening\", Biomedical signal processing and control 2025.
+- Code for the paper: \"Interaction-guided Speech Tensor Representation for Dysphagia Screening\".
 
 ## Get started
 Directly run "Demo_speech.m" to see an example using simulated data. The main functions demonstrate the complete code for group-level feature extraction.
