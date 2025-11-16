@@ -8,6 +8,7 @@ Directly run "Demo_speech.m" to see an example using simulated data. The main fu
 ## Citation
 If you find this code helpful, please consider citing our work as well as the following sources, from which some parts of the code are derived:
 
+Fei He, Xiaoling Wang, Da Shen, Ce Zhu, Ying Li, Yipeng Liu, Interaction-guided speech tensor representation for dysphagia screening, Biomedical Signal Processing and Control, Volume 113, Part C, 2026, 109164.
 
 ```bibtex
 @inproceedings{wuTWD2022,
